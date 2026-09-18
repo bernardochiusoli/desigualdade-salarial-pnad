@@ -1,4 +1,4 @@
-# We-can-fly
+# desigualdade-salarial-pnad
 
 # Como fatores de Sexo e raça influenciam a renda salarial media no Brasil e impactam nos recortes de grupos sub-representados.
 TCC da Turma Fly 2026 - diversiData
