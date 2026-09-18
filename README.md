@@ -31,7 +31,7 @@ A ideia original do grupo era ir além do recorte binário e investigar como a r
 - O recorte de raça/cor apresentou maior peso na disparidade de renda do que o recorte de gênero nesta região
 
 ## O prototipo
-[[Link do GitHub Pages](https://anaglebia.github.io/We-can-fly/)] - 
+[[Link do GitHub Pages][(https://github.com/bernardochiusoli/desigualdade-salarial-pnad)] - 
 
 Este simulador interativo expõe o viés salarial do mercado ao demonstrar visualmente como sexo e raça alteram drasticamente a renda prevista pela PNAD Contínua para perfis profissionais idênticos.
 
